@@ -33,31 +33,22 @@ Al ejecutar el script, se leerá el archivo Countries_by_GDP.csv, se transformar
 ```
 
 ### ✅ ¿Qué hace este proyecto?
-Lee datos brutos del PIB por país desde un CSV.
-
-Limpia, transforma y normaliza los datos (tipos, nombres, valores faltantes, etc.).
-
-Inserta los datos procesados en una base de datos SQLite.
-
-Genera un log con detalles del proceso para seguimiento y debugging.
+- Lee datos brutos del PIB por país desde un CSV.
+- Limpia, transforma y normaliza los datos (tipos, nombres, valores faltantes, etc.).
+- Inserta los datos procesados en una base de datos SQLite.
+- Genera un log con detalles del proceso para seguimiento y debugging.
 
 ### 🎯 Casos de uso
-Base para análisis de datos económicos globales.
-
-Demostración de un pipeline ETL para proyectos de Data Engineering.
-
-Proyecto educativo para aprender transformación y carga de datos.
+- Base para análisis de datos económicos globales.
+- Demostración de un pipeline ETL para proyectos de Data Engineering.
+- Proyecto educativo para aprender transformación y carga de datos.
 
 ### 📝 Próximos pasos / posibles mejoras
-Agregar manejo de excepciones más robusto en el ETL.
-
-Añadir tests automatizados para asegurar calidad del pipeline.
-
-Permitir parametrización (por ejemplo: distintos orígenes de datos, distintos destinos de BD, formatos).
-
-Documentar datos de salida con esquema claro de la base de datos.
-
-Extender el pipeline para incluir más indicadores económicos.
+- Agregar manejo de excepciones más robusto en el ETL.
+- Añadir tests automatizados para asegurar calidad del pipeline.
+- Permitir parametrización (por ejemplo: distintos orígenes de datos, distintos destinos de BD, formatos).
+- Documentar datos de salida con esquema claro de la base de datos.
+- Extender el pipeline para incluir más indicadores económicos.
 
 ### 👤 Autor & Contacto
 Autor: Fernando Blanco (GitHub: @FernandoBlanco10)
